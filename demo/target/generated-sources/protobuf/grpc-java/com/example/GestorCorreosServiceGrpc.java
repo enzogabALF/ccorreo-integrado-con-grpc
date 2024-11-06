@@ -4,7 +4,7 @@ import static io.grpc.MethodDescriptor.generateFullMethodName;
 
 /**
  */
-@jakarta.annotation.Generated(
+@javax.annotation.Generated(
     value = "by gRPC proto compiler (version 1.52.1)",
     comments = "Source: gestor_correos.proto")
 @io.grpc.stub.annotations.GrpcGenerated
